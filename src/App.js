@@ -1,10 +1,10 @@
 import UseRefExample from './components/UseRefExample';
-import CustomHookExample1 from './components/CustomHookExample1'
+import CustomHookExample2 from './components/CustomHookExample2'
 
 function App() {
   return (
-    <div>CustomHookExample1
-      <CustomHookExample1 />
+    <div>CustomHookExample2
+      <CustomHookExample2 />
     </div>
   )
 }
