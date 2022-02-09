@@ -1,10 +1,10 @@
 import UseRefExample from './components/UseRefExample';
-import UseRefExample3 from './components/UseRefExample3'
+import UseMemoExample from './components/UseMemoExample'
 
 function App() {
   return (
     <div>
-      <UseRefExample3 />
+      <UseMemoExample />
     </div>
   )
 }
